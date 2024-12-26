@@ -1,4 +1,4 @@
-# The-Application-Proxy-in-Azure-
+# The Application Proxy in Azure
 ## Introduction 
 
 The Azure Application Proxy provides secure remote access to on-premises applications. This article will delve into the role of Azure Application Proxy, its setup, optimization techniques, usage scenarios, and best practices. 
